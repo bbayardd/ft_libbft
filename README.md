@@ -1,2 +1,3 @@
 # ft_libbft
-first ex from school
+
+Standard library c
